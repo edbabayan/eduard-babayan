@@ -5,7 +5,6 @@ I am experienced in creating innovative AI solutions to automate and optimize fi
 Explore my repositories to see my work in action!
 ## Connect with Me
 You can find me on various platforms. Let's connect and explore the world of frontend development together:
-- **GitHub**: [Eduard Babayan's GitHub](https://github.com/edbabayan)
 - **LinkedIn**: [Eduard Babayan's LinkedIn](linkedin.com/in/eduard-babayan-028414251)
 
 I'm always open to new opportunities, collaborations, or just having a chat. Don't hesitate to reach out!
